@@ -54,6 +54,8 @@ By the end of this program, participants will be well-versed in the strategic ap
 
 - [Anaconda Distribution for Python](https://www.anaconda.com/download)
 
+- [VS Code](https://code.visualstudio.com/download)
+
 - [Sublime Text Editor](https://download.sublimetext.com/Sublime%20Text%20Build%203211%20x64%20Setup.exe)
 
 - [Git for Windows](https://git-scm.com/download/win)
