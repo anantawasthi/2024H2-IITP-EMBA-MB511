@@ -44,7 +44,7 @@ By the end of this program, participants will be well-versed in the strategic ap
 
 ##### Online Resources
 
-- [GitHub Repository](https://github.com/anantawasthi/IIT-Patna-EMBA-MB551)
+- [GitHub Repository](https://github.com/anantawasthi/2024H2-IITP-EMBA-MB511)
 
 - [Google Colaboratory](https://colab.research.google.com/)
 
