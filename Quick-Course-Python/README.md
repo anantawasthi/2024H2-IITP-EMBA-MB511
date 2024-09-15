@@ -20,4 +20,6 @@ This repository will host the code snippets used in discussion & case studies du
    
    4. [Dictionary in Python](dictionary.md)
 
-4. [Loops in Python](Loops.md)
+4. [Working with Text in Python](Text.md)
+
+5. [Loops in Python](Loops.md)
